@@ -1,0 +1,41 @@
+# FastAPI and ASGI server
+fastapi==0.95.1
+uvicorn==0.22.0
+
+# WebSocket support
+websockets==11.0.3
+
+# Twilio
+twilio==8.2.0
+
+# OpenAI
+openai==0.27.8
+
+# Deepgram
+deepgram-sdk==2.4.0
+
+# Whisper (OpenAI's speech recognition model)
+openai-whisper==20230314
+
+# Audio processing
+pydub==0.25.1
+
+# Asynchronous HTTP requests
+aiohttp==3.8.4
+
+# Environment variables
+python-dotenv==1.0.0
+
+# JSON handling
+pydantic==1.10.7
+
+# Async support
+asyncio==3.4.3
+
+# Base64 encoding/decoding (usually part of Python standard library)
+# No need to install separately
+
+# Additional dependencies that might be needed
+numpy==1.24.3
+torch==2.0.1
+torchaudio==2.0.2
